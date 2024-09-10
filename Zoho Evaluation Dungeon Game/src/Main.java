@@ -47,7 +47,7 @@ public class Main {
             }
         }
         if(!flag){
-            System.out.println("No possible solutions");
+            System.out.println("No possible solution");
         }
         else {
             System.out.println("Path :" + ans);
